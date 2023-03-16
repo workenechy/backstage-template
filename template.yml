@@ -85,9 +85,9 @@ metadata:
     - title: PyPi
       url: https://pypi.org/project/broker
   tags:
-    - space_try
+    - space-try
   annotations:
-    github.com/project-slug: SatelliteQE/broker
+    github.com/project-slug: asdasd/asdasd
 spec:
   type: library
   owner: user:guyyaakov1
