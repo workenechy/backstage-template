@@ -72,3 +72,23 @@ spec:
   type: library
   owner: user:guyyaakov1
   lifecycle: experimental
+
+
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: ttestss
+  title: ttestss
+  description: ttestss!
+  links:
+    - title: PyPi
+      url: https://pypi.org/project/broker
+  tags:
+    - space try
+  annotations:
+    github.com/project-slug: SatelliteQE/broker
+spec:
+  type: library
+  owner: user:guyyaakov1
+  lifecycle: beta
