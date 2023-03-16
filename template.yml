@@ -85,7 +85,7 @@ metadata:
     - title: PyPi
       url: https://pypi.org/project/broker
   tags:
-    - space try
+    - space_try
   annotations:
     github.com/project-slug: SatelliteQE/broker
 spec:
